@@ -1,8 +1,8 @@
 streamlit
+opencv-python-headless
 deepface
 tf-keras
 tensorflow-cpu
-opencv-python-headless
 scipy
 pandas
 matplotlib
